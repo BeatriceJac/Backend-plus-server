@@ -1,0 +1,20 @@
+{
+  "name": "kovo16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon",
+    "production": "nodemon",
+    "tester": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
