@@ -1,11 +1,9 @@
-
 import { PageTemplate } from "../lib/PageTemplate.js";
 
-class pageLogin extends PageTemplate {
-    mainHTML(){
-        return `PAGE LOGIN`
+class PageLogin extends PageTemplate {
+    mainHTML() {
+        return `LOGIN PAGE CONTENT`;
     }
-
 }
 
-export  {pageLogin}
+export { PageLogin }
